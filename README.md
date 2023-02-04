@@ -1,5 +1,3 @@
-# imageorpdf-totext-tospeech
-
 # Image or PDF to text to Speech with python
 ## Purposes
 #### This is for demonstration purpose only. This python program will be used to convert image or pdf to text using tesseract and pytesseract. And then it will convert text to speech using gtts.
