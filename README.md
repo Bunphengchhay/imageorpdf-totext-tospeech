@@ -4,7 +4,7 @@
 
     Limitation
     This program is able to take .jpg | .png | .pdf only
-## CLONE
+## Clone
     git clone git@github.com:Bunphengchhay/imageorpdf-totext-tospeech.git
 ## Requirements
 ### This program required Tersseract and Pytesseract
@@ -53,4 +53,4 @@
 ### This function will use gtts and os to convert text to speech. This function will take text and language as an input. You can specify any languages you like. Please refer to this link for more details over the use of language with gtts.
     https://gtts.readthedocs.io/en/latest/module.html
 
-### After that we will save the audio result into the same main folder. The os.system will be using to to invoke the system call to read aloud the text for you.
+### After that we will save the audio result into the same main folder. The os.system will be using to invoke the system call to read aloud the text for you.
