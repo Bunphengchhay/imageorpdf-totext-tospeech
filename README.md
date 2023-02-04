@@ -1,14 +1,14 @@
 # Image or PDF to text to Speech with python
 ## Purposes
-#### This is for demonstration purpose only. This python program will be used to convert image or pdf to text using tesseract and pytesseract. And then it will convert text to speech using gtts.
+### This is for demonstration purpose only. This python program will be used to convert image or pdf to text using tesseract and pytesseract. And then it will convert text to speech using gtts.
 
     Limitation
     This program is able to take .jpg | .png | .pdf only
 ## CLONE
     git clone git@github.com:Bunphengchhay/imageorpdf-totext-tospeech.git
 ## Requirements
-#### This program required Tersseract and Pytesseract
-#### The following command will used to install the required package.
+### This program required Tersseract and Pytesseract
+### The following command will used to install the required package.
      - pip install -r requirements.txt
 
 ## Image to text
