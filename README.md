@@ -4,7 +4,8 @@
 
     Limitation
     This program is able to take .jpg | .png | .pdf only
-
+## CLONE
+    git clone git@github.com:Bunphengchhay/imageorpdf-totext-tospeech.git
 ## Requirements
 #### This program required Tersseract and Pytesseract
 #### The following command will used to install the required package.
